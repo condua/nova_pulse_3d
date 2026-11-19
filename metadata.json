@@ -1,0 +1,6 @@
+{
+  "name": "NOVA PULSE — 3D Sci-Fi FPS Arena",
+  "description": "Game bắn súng góc nhìn thứ nhất 3D phong cách khoa học viễn tưởng chơi trực tiếp trên trình duyệt với đồ họa Three.js, hiệu ứng tia năng lượng và hệ thống cấp độ thử thách.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
